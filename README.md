@@ -61,4 +61,4 @@ This project is licensed under the MIT License, allowing free use and modificati
 
 ## Author
 
-Developed by K Fan
+Developed by Kuanrou Fan
